@@ -1,3 +1,4 @@
+#REQUIRES GRAPHICS LIBRARY FOR PYTHON
 from graphics import *
 
 #Tools
